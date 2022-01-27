@@ -1,6 +1,6 @@
 <?php 
 
-    $conexion = mysqli_connect("localhost", "root", "", "login_registro_db");
+    $conexion = mysqli_connect("localhost", "root", "", "login_register_db");
   /*
         if($conexion){
             echo ' Conectado exitosamente a la Base de Datos';
